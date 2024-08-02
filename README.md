@@ -2,7 +2,7 @@
    <samp>
      <a href="https://www.ishakalwani.me">me</a> .
      <a href="https://www.linkedin.com/in/isha-kalwani">linkedin</a> .
-     <a href="https://cataas.com/cat/cute/says/hello">a cat</a>
+     <a href="https://www.123rf.com/photo_114404375_vector-cartoon-illustration-of-cute-cow-saying-hi-isolated-on-white-background.html">a cow</a>
    </samp>
  </p>
 
