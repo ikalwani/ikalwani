@@ -10,8 +10,8 @@
 
  <p align="center">
    <samp>
-     I like to make things that may or may not always solve a problem; with
-javascript / python / c++ ; 
+     I like to make things that may or may not always solve a problem with
+javascript / python / c++ 
       using 
 react / django / pytorch / MongoDB .
    <samp>
