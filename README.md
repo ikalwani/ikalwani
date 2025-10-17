@@ -2,7 +2,7 @@
    <samp>
      <a href="https://www.ishakalwani.me">me</a> .
      <a href="https://www.ishakalwani.me/#projects">projects</a> .
-     <a href="https://www.linkedin.com/in/isha-kalwani">linkedin</a> .
+     <a href="https://www.linkedin.com/in/isha-kalwani">linkedin</a> 
    </samp>
  </p>
 
